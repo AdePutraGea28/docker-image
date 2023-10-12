@@ -1,3 +1,13 @@
-# folder
+# ignore folders
 /mysql-image/mysql-data/
 /redis-image/cache/
+/rabbitmq-image/rabbitmq_data/
+/rabbitmq-image/rabbitmq_log/
+
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
