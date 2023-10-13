@@ -3,6 +3,7 @@
 /redis-image/cache/
 /rabbitmq-image/rabbitmq_data/
 /rabbitmq-image/rabbitmq_log/
+/postgresql-image/qpc-postgres
 
 
 # Ignore image files
