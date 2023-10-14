@@ -4,11 +4,11 @@
 /rabbitmq-image/rabbitmq_data/
 /rabbitmq-image/rabbitmq_log/
 /postgresql-image/qpc-postgres
+/jenkins-image/jenkins_data
 
-
-# Ignore image files
-*.jpg
-*.jpeg
-*.png
-*.gif
+# # Ignore image files
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
 
